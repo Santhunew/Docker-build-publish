@@ -1,0 +1,41 @@
+[33mcommit bc62e9956921403cc92fe655e0de06c735a9f90a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: bzdgn <divilioglu@gmail.com>
+Date:   Thu Jan 17 01:30:50 2019 +0100
+
+    Dockerfile content added to the related section in README.md
+
+[33mcommit 0c2e9fbdd1e45f30a77f123fca56e03050a64d25[m
+Author: bzdgn <divilioglu@gmail.com>
+Date:   Thu Jan 17 01:14:44 2019 +0100
+
+    remove unnecessary files
+
+[33mcommit ca4da047c6ed089e9bafba7ef8d2987febe0bde6[m
+Author: bzdgn <divilioglu@gmail.com>
+Date:   Thu Jan 17 01:07:02 2019 +0100
+
+    readme indentation at cheat-sheet fixed
+
+[33mcommit 4c2e114c5a1249de24d95a60e69575b51ed1c818[m
+Author: bzdgn <divilioglu@gmail.com>
+Date:   Thu Jan 17 01:06:04 2019 +0100
+
+    readme file finished
+
+[33mcommit 127942917c576b055d95d65366a540c25270b7f3[m
+Author: bzdgn <divilioglu@gmail.com>
+Date:   Thu Jan 17 00:10:42 2019 +0100
+
+    bullet-point to the number
+
+[33mcommit f3f24334fdb709fc67c366165a88a7eacb255bbd[m
+Author: bzdgn <divilioglu@gmail.com>
+Date:   Thu Jan 17 00:09:55 2019 +0100
+
+    readme.md update
+
+[33mcommit e8899e491a23190fdeeb3e157cef81e1dfded695[m
+Author: bzdgn <divilioglu@gmail.com>
+Date:   Wed Jan 16 21:42:47 2019 +0100
+
+    first commit
